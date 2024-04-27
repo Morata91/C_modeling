@@ -1,1 +1,3 @@
-# C_modeling
+# しまじろうを3Dモデリングした時のやつ
+
+##xcodeでrun
